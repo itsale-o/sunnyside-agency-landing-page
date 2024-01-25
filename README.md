@@ -34,8 +34,8 @@ This is what my solution
 
 ### Links
 
--[Solution on Frontend Mentor](https://your-solution-url.com)
-- [Live site](https://your-live-site-url.com)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-solution-xTYUfmIY2K)
+- [Live site](https://itsale-o.github.io/sunnyside-agency-landing-page/)
 
 ## My process
 
